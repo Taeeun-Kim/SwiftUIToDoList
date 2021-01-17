@@ -14,6 +14,7 @@
 		5AE892FC25B44875009108B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE892FB25B44875009108B7 /* Assets.xcassets */; };
 		5AE892FF25B44875009108B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AE892FE25B44875009108B7 /* Preview Assets.xcassets */; };
 		5AE8930225B44875009108B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AE8930025B44875009108B7 /* LaunchScreen.storyboard */; };
+		5AE8930B25B44D65009108B7 /* ToDoListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AE8930A25B44D65009108B7 /* ToDoListItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5AE892FE25B44875009108B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5AE8930125B44875009108B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5AE8930325B44875009108B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AE8930A25B44D65009108B7 /* ToDoListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5AE8930325B44875009108B7 /* Info.plist */,
 				5AE892F825B44874009108B7 /* SwiftUIToDoList.xcdatamodeld */,
 				5AE892FD25B44875009108B7 /* Preview Content */,
+				5AE8930A25B44D65009108B7 /* ToDoListItem.swift */,
 			);
 			path = SwiftUIToDoList;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				5AE892F325B44874009108B7 /* AppDelegate.swift in Sources */,
 				5AE892FA25B44874009108B7 /* SwiftUIToDoList.xcdatamodeld in Sources */,
 				5AE892F525B44874009108B7 /* SceneDelegate.swift in Sources */,
+				5AE8930B25B44D65009108B7 /* ToDoListItem.swift in Sources */,
 				5AE892F725B44874009108B7 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
